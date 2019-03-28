@@ -1,0 +1,15 @@
+C:\Users\Hank\source\repos\FutureGO\FutureGO\bin\Debug\FutureGO.exe.config
+C:\Users\Hank\source\repos\FutureGO\FutureGO\bin\Debug\FutureGO.exe
+C:\Users\Hank\source\repos\FutureGO\FutureGO\bin\Debug\FutureGO.pdb
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.csprojAssemblyReference.cache
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\MainWindow.g.cs
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\App.g.cs
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO_MarkupCompile.cache
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO_MarkupCompile.lref
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\MainWindow.baml
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.g.resources
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.Properties.Resources.resources
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.csproj.GenerateResource.cache
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.csproj.CoreCompileInputs.cache
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.exe
+C:\Users\Hank\source\repos\FutureGO\FutureGO\obj\Debug\FutureGO.pdb
